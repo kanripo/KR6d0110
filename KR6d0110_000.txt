@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說菩薩行方便境界神通變化經
+#+DATE: 2015-08-30 19:49:58.348588
+#+PROPERTY: JUAN 0
